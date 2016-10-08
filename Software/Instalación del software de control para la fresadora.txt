@@ -1,0 +1,32 @@
+Descargar las siguientes aplicaciones
+
+	bCNC.- Programa de control
+	PYTHON.- Aplicación de programación
+
+		Versiones:
+
+			2.7.5 para XP (python-2.7.5.msi)
+			2.7.12 para W7 y W10 (python-2.7.12.msi)
+
+
+	Estos archivos hay que comprobar sin son necesarios. Hacer la instalación sin ellos primero.
+
+	Pyserial-master
+
+	pyserial-3.1.1-py2.py3-none-any.whl
+
+
+Instalación
+
+
+	Copiar bCNC a la carpeta preferida
+
+	Instalar Python
+
+	Acontinuación ejecutar en el (CMD) la siguiente línea (C:\PythonXX\Scripts\easy_install pyserial)
+
+
+
+Ejecución
+
+	Ejecutar el archivo (bCNC.bat) para su normal funcionamiento.

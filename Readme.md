@@ -25,4 +25,6 @@ Lista de materiales (Incompleta)
 
 Tornillería M3
 
+Mas fotos: https://plus.google.com/u/0/+ManuelPalacios/posts/96bs3QSNdLy?cfem=1 
+
 Forked from https://github.com/CarlosGS/Cyclone-PCB-Factory

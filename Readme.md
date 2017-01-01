@@ -6,8 +6,8 @@ Volumen de trabajo: 200 x 150 x 38 mm
 Lista de materiales (Incompleta)
 
 12 LM8uu
-2 Motores con husillo Nema 17 T8x2 de 300 mm. con tuerca.
-1 Motores con husillo Nema 17 T8x2 de 200 mm. con tuerca.
+2 Motores con husillo Nema 17 T8 de 300 mm. con tuerca.
+1 Motores con husillo Nema 17 T8 de 200 mm. con tuerca.
 3 Tuercas para husillo.
 4 Rodamientos 608zz
 2 Finales de carrera PCB
